@@ -21,16 +21,11 @@ Sou formado em Engenharia de Software e tenho interesse especial em análise de 
 
 ## 📱 Meus Projetos
 
-- [Projeto de Extensão – Base de Dados Habitacional em Curitiba](https://github.com/victorleanc) — Coleta e análise de dados sobre população sem casa própria.  
-- (Adicione aqui outros repositórios que você quiser destacar)  
+### 📝 [Currículo interativo com Javascript](https://github.com/victorleanc/js-resume-portfolio)
 
----
+### 📝 [Pokedex responsiva com Javascript e API](https://github.com/victorleanc/js-developer-pokedex)
 
-## 📉 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=victorleanc&show_icons=true&theme=blue_navy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorleanc&layout=compact&theme=blue_navy)
+### 📝 [Análise de dados sobre o mercado de TI com SQL](https://github.com/victorleanc/js-developer-pokedex)
 
 ---
 
