@@ -1,4 +1,4 @@
-## Olá! Eu sou o Victor 🌌
+## Olá! Eu sou o Victor
 
 ### Formado em Engenharia de Software e Relações Internacionais 💻 + 🌍
 
